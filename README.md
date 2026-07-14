@@ -43,3 +43,7 @@ The generated run artifacts are prepared under `run/`. Final validated files wil
 ## Final spritesheet.png
 
 ![Final spritesheet of pelican on a bicycle with many different frames](https://raw.githubusercontent.com/simonw/pedalican-pet/refs/heads/main/run/final/spritesheet.png)
+
+## Contact sheet
+
+![A contact sheet](https://raw.githubusercontent.com/simonw/pedalican-pet/refs/heads/main/run/qa/contact-sheet.png)
