@@ -11,6 +11,15 @@ Skills used;
 
 The generated run artifacts are prepared under `run/`. Final validated files will be packaged into the local Codex pets directory after the image-generation jobs complete.
 
+## Final spritesheet.png
+
+![Final spritesheet of pelican on a bicycle with many different frames](https://raw.githubusercontent.com/simonw/pedalican-pet/refs/heads/main/run/final/spritesheet.png)
+
+## Contact sheet
+
+![A contact sheet](https://raw.githubusercontent.com/simonw/pedalican-pet/refs/heads/main/run/qa/contact-sheet.png)
+
+
 ## failed.gif
 
 ![Animated failed.gif](https://raw.githubusercontent.com/simonw/pedalican-pet/refs/heads/main/run/qa/previews/failed.gif)
@@ -46,11 +55,3 @@ The generated run artifacts are prepared under `run/`. Final validated files wil
 ## waving.gif
 
 ![Animated waving.gif](https://raw.githubusercontent.com/simonw/pedalican-pet/refs/heads/main/run/qa/previews/waving.gif)
-
-## Final spritesheet.png
-
-![Final spritesheet of pelican on a bicycle with many different frames](https://raw.githubusercontent.com/simonw/pedalican-pet/refs/heads/main/run/final/spritesheet.png)
-
-## Contact sheet
-
-![A contact sheet](https://raw.githubusercontent.com/simonw/pedalican-pet/refs/heads/main/run/qa/contact-sheet.png)
