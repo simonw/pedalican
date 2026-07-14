@@ -2,6 +2,8 @@
 
 An animated Codex pet featuring a cute pelican riding a tiny bicycle.
 
+To install copy the `pedalican/` folder from this repository to `~/.codex/pets/pedalican`.
+
 The generated run artifacts are prepared under `run/`. Final validated files will be packaged into the local Codex pets directory after the image-generation jobs complete.
 
 ## failed.gif
